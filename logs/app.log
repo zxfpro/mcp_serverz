@@ -1,0 +1,566 @@
+2025-07-15 14:10:55,571 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 14:10:55,571 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 14:10:55,571 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 14:10:55,571 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 14:10:55,578 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 14:10:55,578 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10c29e0d0>
+2025-07-15 14:10:55,578 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 14:10:55,578 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 14:10:55,579 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 14:10:55,580 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10c29e210>
+2025-07-15 14:10:55,580 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-15 14:10:55,580 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 14:10:55,581 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x104a55e00>
+2025-07-15 14:10:55,581 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-15 14:10:55,582 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:46:02,520 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 15:46:02,520 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 15:46:02,520 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 15:46:02,520 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 15:46:02,529 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 15:46:02,553 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x108e30410>
+2025-07-15 15:46:02,557 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 15:46:02,557 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 15:46:02,558 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:46:02,559 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x108dabed0>
+2025-07-15 15:46:02,560 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 15:46:02,560 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 15:46:02,560 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:46:08,443 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 15:46:08,443 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 15:46:08,444 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 15:46:08,444 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 15:46:08,450 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 15:46:08,450 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x115b2c410>
+2025-07-15 15:46:08,450 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 15:46:08,450 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 15:46:08,451 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:46:08,452 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x115aabed0>
+2025-07-15 15:46:08,452 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-15 15:46:08,452 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:46:08,453 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x107859a70>
+2025-07-15 15:46:08,453 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-15 15:46:08,453 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:50:03,094 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 15:50:03,094 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 15:50:03,094 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 15:50:03,095 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 15:50:03,101 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 15:50:03,109 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10b330410>
+2025-07-15 15:50:03,109 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 15:50:03,110 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 15:50:03,110 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:50:03,110 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10b2abed0>
+2025-07-15 15:50:03,110 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 15:50:03,110 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 15:50:03,111 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:50:09,081 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 15:50:09,081 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 15:50:09,081 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 15:50:09,081 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 15:50:09,086 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 15:50:09,087 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10b32c410>
+2025-07-15 15:50:09,087 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 15:50:09,087 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 15:50:09,087 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:50:09,088 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10b1abed0>
+2025-07-15 15:50:09,089 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-15 15:50:09,089 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 15:50:09,090 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x105155a70>
+2025-07-15 15:50:09,090 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-15 15:50:09,090 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:10:41,418 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 16:10:41,418 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 16:10:41,418 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 16:10:41,418 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 16:10:41,424 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 16:10:41,428 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x112230410>
+2025-07-15 16:10:41,428 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 16:10:41,428 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 16:10:41,428 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:10:41,428 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1121abed0>
+2025-07-15 16:10:41,429 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 16:10:41,429 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 16:10:41,429 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:10:47,838 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 16:10:47,838 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 16:10:47,838 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 16:10:47,838 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 16:10:47,844 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 16:10:47,845 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10b9f8410>
+2025-07-15 16:10:47,845 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 16:10:47,845 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 16:10:47,846 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:10:47,847 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x109dabed0>
+2025-07-15 16:10:47,847 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-15 16:10:47,848 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:10:47,849 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x103555a70>
+2025-07-15 16:10:47,849 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-15 16:10:47,849 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:17:07,121 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 16:17:07,122 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 16:17:07,122 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 16:17:07,122 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 16:17:07,128 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 16:17:07,137 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x118830410>
+2025-07-15 16:17:07,137 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 16:17:07,137 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 16:17:07,137 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:17:07,137 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1187abed0>
+2025-07-15 16:17:07,138 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 16:17:07,138 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 16:17:07,138 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:17:10,711 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 16:17:10,711 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 16:17:10,711 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 16:17:10,711 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 16:17:10,717 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 16:17:10,718 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10b32c410>
+2025-07-15 16:17:10,718 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 16:17:10,718 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 16:17:10,718 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:17:10,719 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10b2abed0>
+2025-07-15 16:17:10,720 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-15 16:17:10,720 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 16:17:10,720 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x103755a70>
+2025-07-15 16:17:10,720 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-15 16:17:10,721 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:21:21,683 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 17:21:21,684 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 17:21:21,684 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 17:21:21,684 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 17:21:21,693 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 17:21:21,727 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x120a30410>
+2025-07-15 17:21:21,728 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 17:21:21,728 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 17:21:21,728 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:21:21,728 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1209abed0>
+2025-07-15 17:21:21,728 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 17:21:21,729 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 17:21:21,729 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:21:22,468 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 17:21:22,468 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 17:21:22,468 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 17:21:22,468 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 17:21:22,477 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 17:21:22,478 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11f12c410>
+2025-07-15 17:21:22,479 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 17:21:22,479 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 17:21:22,480 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:21:22,491 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11f0abed0>
+2025-07-15 17:21:22,491 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-15 17:21:22,491 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:21:22,492 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x119055a70>
+2025-07-15 17:21:22,493 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-15 17:21:22,493 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:24:32,587 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 17:24:32,588 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 17:24:32,588 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 17:24:32,588 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 17:24:32,595 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 17:24:32,605 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x119830410>
+2025-07-15 17:24:32,605 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 17:24:32,605 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 17:24:32,606 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:24:32,606 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1197abed0>
+2025-07-15 17:24:32,606 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 17:24:32,606 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 17:24:32,607 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:24:34,026 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-15 17:24:34,026 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-15 17:24:34,026 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-15 17:24:34,026 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-15 17:24:34,031 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-15 17:24:34,032 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11202c410>
+2025-07-15 17:24:34,032 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-15 17:24:34,032 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-15 17:24:34,032 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:24:34,033 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x111fabed0>
+2025-07-15 17:24:34,033 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-15 17:24:34,034 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:24:34,034 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x103759a70>
+2025-07-15 17:24:34,034 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-15 17:24:34,034 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:34:52,366 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x110899220>
+2025-07-15 17:34:52,367 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type CallToolRequest
+2025-07-15 17:34:52,367 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type CallToolRequest
+2025-07-15 17:34:52,630 - DEBUG - httpcore.connection - _trace:47 - connect_tcp.started host='127.0.0.1' port=8108 local_address=None timeout=None socket_options=None
+2025-07-15 17:34:52,631 - DEBUG - httpcore.connection - _trace:47 - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x1121b74d0>
+2025-07-15 17:34:52,631 - DEBUG - httpcore.http11 - _trace:47 - send_request_headers.started request=<Request [b'POST']>
+2025-07-15 17:34:52,632 - DEBUG - httpcore.http11 - _trace:47 - send_request_headers.complete
+2025-07-15 17:34:52,632 - DEBUG - httpcore.http11 - _trace:47 - send_request_body.started request=<Request [b'POST']>
+2025-07-15 17:34:52,632 - DEBUG - httpcore.http11 - _trace:47 - send_request_body.complete
+2025-07-15 17:34:52,632 - DEBUG - httpcore.http11 - _trace:47 - receive_response_headers.started request=<Request [b'POST']>
+2025-07-15 17:34:52,653 - DEBUG - httpcore.http11 - _trace:47 - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'date', b'Tue, 15 Jul 2025 09:34:52 GMT'), (b'server', b'uvicorn'), (b'cache-control', b'no-store'), (b'connection', b'keep-alive'), (b'x-accel-buffering', b'no'), (b'content-type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked')])
+2025-07-15 17:34:52,654 - INFO - httpx - _client:1025 - HTTP Request: POST http://127.0.0.1:8108/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:34:52,655 - DEBUG - httpcore.http11 - _trace:47 - receive_response_body.started request=<Request [b'POST']>
+2025-07-15 17:34:53,813 - DEBUG - httpcore.http11 - _trace:47 - receive_response_body.failed exception=GeneratorExit()
+2025-07-15 17:34:53,814 - DEBUG - httpcore.http11 - _trace:47 - response_closed.started
+2025-07-15 17:34:53,814 - DEBUG - httpcore.http11 - _trace:47 - response_closed.complete
+2025-07-15 17:34:53,815 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-15 17:35:29,756 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x111f579b0>
+2025-07-15 17:35:29,757 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type CallToolRequest
+2025-07-15 17:35:29,757 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type CallToolRequest
+2025-07-15 17:35:29,767 - DEBUG - httpcore.connection - _trace:47 - connect_tcp.started host='127.0.0.1' port=8108 local_address=None timeout=None socket_options=None
+2025-07-15 17:35:29,768 - DEBUG - httpcore.connection - _trace:47 - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x1124da990>
+2025-07-15 17:35:29,768 - DEBUG - httpcore.http11 - _trace:47 - send_request_headers.started request=<Request [b'POST']>
+2025-07-15 17:35:29,768 - DEBUG - httpcore.http11 - _trace:47 - send_request_headers.complete
+2025-07-15 17:35:29,769 - DEBUG - httpcore.http11 - _trace:47 - send_request_body.started request=<Request [b'POST']>
+2025-07-15 17:35:29,769 - DEBUG - httpcore.http11 - _trace:47 - send_request_body.complete
+2025-07-15 17:35:29,769 - DEBUG - httpcore.http11 - _trace:47 - receive_response_headers.started request=<Request [b'POST']>
+2025-07-15 17:35:29,783 - DEBUG - httpcore.http11 - _trace:47 - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'date', b'Tue, 15 Jul 2025 09:35:29 GMT'), (b'server', b'uvicorn'), (b'cache-control', b'no-store'), (b'connection', b'keep-alive'), (b'x-accel-buffering', b'no'), (b'content-type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked')])
+2025-07-15 17:35:29,784 - INFO - httpx - _client:1025 - HTTP Request: POST http://127.0.0.1:8108/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:35:29,784 - DEBUG - httpcore.http11 - _trace:47 - receive_response_body.started request=<Request [b'POST']>
+2025-07-15 17:35:30,368 - DEBUG - httpcore.http11 - _trace:47 - receive_response_body.failed exception=GeneratorExit()
+2025-07-15 17:35:30,368 - DEBUG - httpcore.http11 - _trace:47 - response_closed.started
+2025-07-15 17:35:30,368 - DEBUG - httpcore.http11 - _trace:47 - response_closed.complete
+2025-07-15 17:35:30,369 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 09:12:38,223 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 09:12:38,224 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 09:12:38,224 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 09:12:38,224 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 09:12:38,234 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 09:12:38,256 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x130a30410>
+2025-07-16 09:12:38,256 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 09:12:38,256 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 09:12:38,257 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 09:12:38,283 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1309afed0>
+2025-07-16 09:12:38,286 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 09:12:38,288 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 09:12:38,289 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 09:12:40,940 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 09:12:40,941 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 09:12:40,941 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 09:12:40,941 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 09:12:40,947 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 09:12:40,948 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10c42c410>
+2025-07-16 09:12:40,948 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 09:12:40,948 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 09:12:40,949 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 09:12:40,953 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10c3abed0>
+2025-07-16 09:12:40,953 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-16 09:12:40,954 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 09:12:40,955 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1058fda70>
+2025-07-16 09:12:40,955 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-16 09:12:40,955 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:08:23,769 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 10:08:23,770 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 10:08:23,770 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 10:08:23,770 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 10:08:23,778 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 10:08:23,791 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11eb30410>
+2025-07-16 10:08:23,791 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 10:08:23,791 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 10:08:23,791 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:08:23,792 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11eaabed0>
+2025-07-16 10:08:23,792 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 10:08:23,792 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 10:08:23,793 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:08:25,312 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 10:08:25,312 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 10:08:25,312 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 10:08:25,312 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 10:08:25,318 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 10:08:25,318 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11502c410>
+2025-07-16 10:08:25,319 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 10:08:25,319 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 10:08:25,319 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:08:25,321 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x114fabed0>
+2025-07-16 10:08:25,321 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-16 10:08:25,321 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:08:25,322 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x107155a70>
+2025-07-16 10:08:25,322 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-16 10:08:25,322 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:43:47,573 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 10:43:47,574 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 10:43:47,574 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 10:43:47,574 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 10:43:47,582 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 10:43:47,608 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x116d30410>
+2025-07-16 10:43:47,609 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 10:43:47,609 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 10:43:47,609 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:43:47,609 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x116cabed0>
+2025-07-16 10:43:47,610 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 10:43:47,610 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 10:43:47,610 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:43:47,992 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 10:43:47,992 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 10:43:47,992 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 10:43:47,992 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 10:43:48,003 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 10:43:48,005 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10d42c410>
+2025-07-16 10:43:48,005 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 10:43:48,005 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 10:43:48,006 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:43:48,015 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10d3abed0>
+2025-07-16 10:43:48,015 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-16 10:43:48,016 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 10:43:48,022 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x107bb1a70>
+2025-07-16 10:43:48,022 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-16 10:43:48,023 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:14:34,707 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 14:14:34,708 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 14:14:34,708 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 14:14:34,708 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 14:14:34,715 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 14:14:34,759 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x137b30410>
+2025-07-16 14:14:34,760 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 14:14:34,760 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 14:14:34,760 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:14:34,761 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1379abed0>
+2025-07-16 14:14:34,761 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 14:14:34,761 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 14:14:34,762 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:14:35,962 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 14:14:35,963 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 14:14:35,963 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 14:14:35,963 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 14:14:35,969 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 14:14:35,969 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11322c410>
+2025-07-16 14:14:35,969 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 14:14:35,969 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 14:14:35,970 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:14:35,971 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1131abed0>
+2025-07-16 14:14:35,971 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-16 14:14:35,971 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:14:35,972 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x104c55a70>
+2025-07-16 14:14:35,972 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-16 14:14:35,972 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:46:39,339 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 14:46:39,340 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 14:46:39,340 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 14:46:39,342 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 14:46:39,356 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 14:46:39,381 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x133330410>
+2025-07-16 14:46:39,382 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 14:46:39,382 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 14:46:39,382 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:46:39,383 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1331abed0>
+2025-07-16 14:46:39,383 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 14:46:39,383 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 14:46:39,383 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:46:40,894 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 14:46:40,911 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 14:46:40,911 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 14:46:40,911 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 14:46:40,927 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 14:46:40,928 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11292c410>
+2025-07-16 14:46:40,928 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 14:46:40,928 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 14:46:40,929 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:46:40,949 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1128abed0>
+2025-07-16 14:46:40,950 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-16 14:46:40,952 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 14:46:40,954 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10564da70>
+2025-07-16 14:46:40,954 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-16 14:46:40,955 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:40:20,463 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 17:40:20,463 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 17:40:20,463 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 17:40:20,463 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 17:40:20,463 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 17:40:20,463 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 17:40:20,463 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 17:40:20,463 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 17:40:20,469 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 17:40:20,470 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 17:40:20,471 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10de2c410>
+2025-07-16 17:40:20,471 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 17:40:20,471 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 17:40:20,471 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:40:20,473 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10ddabed0>
+2025-07-16 17:40:20,473 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-16 17:40:20,473 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:40:20,474 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x107d55a70>
+2025-07-16 17:40:20,474 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-16 17:40:20,474 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:40:20,474 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x109b48410>
+2025-07-16 17:40:20,475 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 17:40:20,475 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 17:40:20,475 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:40:20,475 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x109ac3ed0>
+2025-07-16 17:40:20,475 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 17:40:20,475 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 17:40:20,476 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:57:22,616 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 17:57:22,617 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 17:57:22,617 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 17:57:22,617 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 17:57:22,623 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 17:57:22,634 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x113230410>
+2025-07-16 17:57:22,635 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 17:57:22,635 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 17:57:22,635 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:57:22,636 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1131abed0>
+2025-07-16 17:57:22,636 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 17:57:22,636 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 17:57:22,636 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:58:11,867 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 17:58:11,868 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 17:58:11,868 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 17:58:11,868 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 17:58:11,884 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 17:58:11,909 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x130f30410>
+2025-07-16 17:58:11,909 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 17:58:11,909 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 17:58:11,910 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:58:11,910 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x130eabed0>
+2025-07-16 17:58:11,910 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 17:58:11,910 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 17:58:11,910 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:58:13,849 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 17:58:13,850 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 17:58:13,850 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 17:58:13,850 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 17:58:13,858 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 17:58:13,875 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10e42c410>
+2025-07-16 17:58:13,875 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 17:58:13,876 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 17:58:13,876 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:58:13,879 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10e3abed0>
+2025-07-16 17:58:13,879 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-16 17:58:13,879 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 17:58:13,880 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x108355a70>
+2025-07-16 17:58:13,880 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-16 17:58:13,880 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 20:10:30,725 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 20:10:30,726 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 20:10:30,726 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 20:10:30,726 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 20:10:30,732 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 20:10:30,739 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x120e30410>
+2025-07-16 20:10:30,739 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 20:10:30,739 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 20:10:30,740 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 20:10:30,740 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x120dabed0>
+2025-07-16 20:10:30,740 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 20:10:30,740 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 20:10:30,740 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 20:10:32,260 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-16 20:10:32,260 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-16 20:10:32,260 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-16 20:10:32,260 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-16 20:10:32,266 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-16 20:10:32,266 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10bb2c410>
+2025-07-16 20:10:32,267 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-16 20:10:32,267 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-16 20:10:32,267 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 20:10:32,268 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10baabed0>
+2025-07-16 20:10:32,269 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-16 20:10:32,269 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-16 20:10:32,272 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x106455a70>
+2025-07-16 20:10:32,272 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-16 20:10:32,273 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 09:55:43,334 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-18 09:55:43,335 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-18 09:55:43,335 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-18 09:55:43,335 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-18 09:55:43,341 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-18 09:55:43,348 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10fb30410>
+2025-07-18 09:55:43,348 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 09:55:43,348 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 09:55:43,348 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 09:55:43,348 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10faabed0>
+2025-07-18 09:55:43,349 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 09:55:43,349 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 09:55:43,349 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 09:55:43,970 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-18 09:55:43,970 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-18 09:55:43,970 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-18 09:55:43,970 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-18 09:55:43,976 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-18 09:55:43,976 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11492c410>
+2025-07-18 09:55:43,976 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 09:55:43,977 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 09:55:43,977 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 09:55:43,978 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1148abed0>
+2025-07-18 09:55:43,978 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-18 09:55:43,978 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 09:55:43,979 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x105f55a70>
+2025-07-18 09:55:43,979 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-18 09:55:43,979 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:21:39,143 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-18 11:21:39,144 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-18 11:21:39,144 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-18 11:21:39,144 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-18 11:21:39,151 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-18 11:21:39,159 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x116130410>
+2025-07-18 11:21:39,159 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 11:21:39,159 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 11:21:39,160 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:21:39,160 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1160abed0>
+2025-07-18 11:21:39,160 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 11:21:39,160 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 11:21:39,160 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:21:39,985 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-18 11:21:39,986 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-18 11:21:39,986 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-18 11:21:39,986 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-18 11:21:39,991 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-18 11:21:39,992 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10f42c410>
+2025-07-18 11:21:39,992 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 11:21:39,992 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 11:21:39,992 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:21:39,993 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10f2abed0>
+2025-07-18 11:21:39,993 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-18 11:21:39,993 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:21:39,994 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x108a55a70>
+2025-07-18 11:21:39,994 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-18 11:21:39,994 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:29:46,490 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-18 11:29:46,491 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-18 11:29:46,491 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-18 11:29:46,491 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-18 11:29:46,496 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-18 11:29:46,504 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x115730410>
+2025-07-18 11:29:46,504 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 11:29:46,504 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 11:29:46,504 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:29:46,505 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1156abed0>
+2025-07-18 11:29:46,505 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 11:29:46,505 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 11:29:46,505 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:29:48,201 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-18 11:29:48,201 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-18 11:29:48,201 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-18 11:29:48,201 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-18 11:29:48,207 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-18 11:29:48,207 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x11502c410>
+2025-07-18 11:29:48,208 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 11:29:48,208 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 11:29:48,208 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:29:48,209 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x114fabed0>
+2025-07-18 11:29:48,209 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-18 11:29:48,210 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 11:29:48,211 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x107955a70>
+2025-07-18 11:29:48,211 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-18 11:29:48,211 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 15:00:58,162 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-18 15:00:58,163 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-18 15:00:58,163 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-18 15:00:58,163 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-18 15:00:58,206 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-18 15:00:58,235 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10ba30410>
+2025-07-18 15:00:58,235 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 15:00:58,235 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 15:00:58,236 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 15:00:58,237 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x10b9abed0>
+2025-07-18 15:00:58,238 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 15:00:58,238 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 15:00:58,241 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 15:01:55,314 - DEBUG - mcp.server.lowlevel.server - server:154 - Initializing server 'api_documents_experts_mcp_server'
+2025-07-18 15:01:55,314 - DEBUG - mcp.server.lowlevel.server - server:386 - Registering handler for ListToolsRequest
+2025-07-18 15:01:55,314 - DEBUG - mcp.server.lowlevel.server - server:447 - Registering handler for CallToolRequest
+2025-07-18 15:01:55,314 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-07-18 15:01:55,320 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-07-18 15:01:55,320 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x14212c410>
+2025-07-18 15:01:55,320 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListToolsRequest
+2025-07-18 15:01:55,320 - DEBUG - mcp.server.lowlevel.server - server:627 - Dispatching request of type ListToolsRequest
+2025-07-18 15:01:55,321 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 15:01:55,322 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x1420abed0>
+2025-07-18 15:01:55,322 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourcesRequest
+2025-07-18 15:01:55,323 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
+2025-07-18 15:01:55,323 - DEBUG - mcp.server.lowlevel.server - server:588 - Received message: <mcp.shared.session.RequestResponder object at 0x121155a70>
+2025-07-18 15:01:55,323 - INFO - mcp.server.lowlevel.server - server:625 - Processing request of type ListResourceTemplatesRequest
+2025-07-18 15:01:55,323 - DEBUG - mcp.server.lowlevel.server - server:668 - Response sent
